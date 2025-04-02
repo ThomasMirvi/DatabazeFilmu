@@ -16,9 +16,8 @@ Tento projekt je jednoduchá desktopová aplikace v **C# Windows Forms** s **SQL
 ## Použití
 1. Otevřete aplikaci.
 2. Použijte tlačítko `Přidat` pro vložení nového filmu.
-3. Kliknutím na film v seznamu zobrazíte jeho plakát v `PictureBox`.
-4. Pro editaci vyberte film a stiskněte `Upravit`.
-5. Mazání filmu proveďte tlačítkem `Smazat`.
+3. Pro editaci vyberte film a stiskněte `Upravit`.
+4. Mazání filmu proveďte tlačítkem `Smazat`.
 
 ## Struktura Databáze (SQLite)
 Tabulka `Filmy` obsahuje:
